@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://a179709009.github.io</id>
     <title>Gridea</title>
-    <updated>2019-05-27T12:01:49.611Z</updated>
+    <updated>2019-05-27T12:03:12.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://a179709009.github.io"/>
     <link rel="self" href="http://a179709009.github.io/atom.xml"/>
@@ -17,7 +17,9 @@
         </link>
         <updated>2019-05-27T11:31:49.000Z</updated>
         <content type="html"><![CDATA[<p>你们好，这里是一名住在魔都的<strong>初三生</strong>（马上中考了有点害怕呢，没有好好学习反而来开博客真是太不应该啊</p>
-<p>然后呢，我这个可爱的**小朋友**（逃）已经被上海的一家末流市重点预录取了，分数可以降到区重点左右的水平，emm总之就是可以不用努力的意思了呢（雾
+<p>然后呢，我这个可爱的**小朋友**（逃）已经被上海的一家末流市重点预录取了，分数可以降到区重点左右的水平，
+<pre><code>emm总之就是可以不用努力的意思了呢（雾
+</code></pre>
 <p>然后这里是一只<strong>不会使用</strong>git和github以及hexo等一系列工具的小透明，有朝一日在发现了Gridea这个<strong>新大陆</strong>后终于建成了如你所见的这个Blog</p>
 <p>多年的夙愿呀<code>（叹息</code></p>
 <!-- more --> </p>
